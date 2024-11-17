@@ -2,7 +2,7 @@
 
 To install:
 
-1. `git clone git@github.com:dillionverma/earthwatch.git`
+1. `git clone git@github.com:anishsoni29/earthwatch.git`
 2. `cd earthwatch`
 3. `npm install`
 4. `node server.js`
